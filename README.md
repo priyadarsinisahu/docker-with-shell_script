@@ -8,8 +8,6 @@ Instead of memorizing Docker commands separately, build one Bash script that wor
 
 docker-manager.sh
 
-        │
-        
         ├── install Docker
         
         ├── start Docker
