@@ -7,6 +7,7 @@ Purpose: Practice Docker + Shell Scripting
 Instead of memorizing Docker commands separately, build one Bash script that works like a Docker management utility:
 
 docker-manager.sh
+
         │
         
         ├── install Docker
