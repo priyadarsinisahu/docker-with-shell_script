@@ -1,0 +1,24 @@
+------------------------------------
+Must-Know Commands in Docker
+------------------------------------
+
+| Command                 | Purpose                              |
+| ----------------------- | ------------------------------------ |
+| `docker pull`           | Download image                       |
+| `docker images`         | List images                          |
+| `docker image ls`       | List images                          |
+| `docker image inspect`  | Inspect image                        |
+| `docker history`        | View image history/layers            |
+| `docker tag`            | Create image tag                     |
+| `docker push`           | Upload image                         |
+| `docker rmi`            | Remove image                         |
+| `docker image rm`       | Remove image                         |
+| `docker image prune`    | Remove dangling images               |
+| `docker image prune -a` | Remove unused images                 |
+| `docker system df`      | Docker disk usage                    |
+| `docker save`           | Save image to archive                |
+| `docker load`           | Load image archive                   |
+| `docker export`         | Export container filesystem          |
+| `docker import`         | Create image from filesystem archive |
+| `docker login`          | Authenticate with registry           |
+| `docker search`         | Search Docker Hub                    |
